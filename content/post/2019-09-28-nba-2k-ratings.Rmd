@@ -12,8 +12,8 @@ description: 'A post explaining how to scrape the NBA 2k ratings data'
 topics: []
 ---
 
-```{python, python.reticulate = FALSE}
-ccsac = d
+```{r}
+ccsac <-  d
 
 ```
 
