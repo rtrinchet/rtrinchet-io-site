@@ -13,8 +13,7 @@ topics: []
 ---
 
 ```{r}
-ccsac <-  d
-
+#comment
 ```
 
 ![NBA](/post/2019-09-28-nba-2k-ratings_files/29952881908_73eefb7e90_b.jpg)---
