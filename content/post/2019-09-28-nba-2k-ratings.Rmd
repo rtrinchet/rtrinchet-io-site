@@ -1,0 +1,20 @@
+title: NBA 2K ratings
+author: Ricard Trinchet
+date: '2019-09-28'
+slug: nba-2k-ratings
+categories:
+  - Web Scraping
+  - Python
+tags:
+  - web scraping
+  - python
+description: 'A post explaining how to scrape the NBA 2k ratings data'
+topics: []
+---
+
+```{python}
+ccsac = d
+
+```
+
+![NBA](/post/2019-09-28-nba-2k-ratings_files/29952881908_73eefb7e90_b.jpg)---
