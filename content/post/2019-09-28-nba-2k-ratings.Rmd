@@ -12,7 +12,7 @@ description: 'A post explaining how to scrape the NBA 2k ratings data'
 topics: []
 ---
 
-```{python}
+```{python, python.reticulate = FALSE}
 ccsac = d
 
 ```
